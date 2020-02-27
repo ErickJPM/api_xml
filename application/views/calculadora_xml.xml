@@ -1,0 +1,6 @@
+$def with (add,substraction)
+<?xml version="1.0"?>
+<RequestNotification-Response>
+    <addition>$add</addition>
+    <substraction>$substraction</substraction>
+</RequestNotification-Response>
